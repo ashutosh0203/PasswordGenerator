@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 git clone https://github.com/ashutosh0203/PasswordGenerator.git
 
 # Navigate to project folder
-cd password-generator
+cd PasswordGenerator
 
 # Install dependencies
 npm install
