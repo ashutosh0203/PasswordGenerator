@@ -10,8 +10,8 @@ This application allows users to generate strong passwords with customizable len
 - Generate **strong & random passwords**
 - Adjustable **password length** using a slider
 - Option to include:
-  - ✅ Numbers
-  - ✅ Special Characters
+  -  Numbers
+  -  Special Characters
 - **One-click copy** to clipboard
 - Clean & responsive UI
 - Fast performance using **Vite**
@@ -41,7 +41,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/password-generator.git
+[git clone https://github.com/your-username/password-generator.git](https://github.com/ashutosh0203/PasswordGenerator.git)
 
 # Navigate to project folder
 cd password-generator
