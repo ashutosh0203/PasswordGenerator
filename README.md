@@ -1,16 +1,53 @@
-# React + Vite
+# 🔐 Password Generator (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and secure **Password Generator** built using **React** and **Vite**.  
+This application allows users to generate strong passwords with customizable length and character options.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Generate **strong & random passwords**
+- Adjustable **password length** using a slider
+- Option to include:
+  - ✅ Numbers
+  - ✅ Special Characters
+- **One-click copy** to clipboard
+- Clean & responsive UI
+- Fast performance using **Vite**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Frontend Library)
+- **Vite** (Build Tool)
+- **JavaScript (ES6+)**
+- **Tailwind CSS** 
+
+---
+
+## 📸 Preview
+
+![Password Generator Preview](./preview.png)
+
+
+
+---
+
+## 📦 Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/password-generator.git
+
+# Navigate to project folder
+cd password-generator
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
